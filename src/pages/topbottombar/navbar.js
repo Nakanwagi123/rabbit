@@ -1,5 +1,6 @@
 import React from "react";
 import "./navbar.js";
+import "./navbar.css";
 
 function Navbar(){
 return(
@@ -7,6 +8,7 @@ return(
         <section>
         <div class="container">
         <div class="split">
+        <div class="button"><i class="fas fa-bars"></i></div>
         <div class="profile">
         Profile
         </div>
