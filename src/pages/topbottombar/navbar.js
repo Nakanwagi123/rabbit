@@ -7,7 +7,11 @@ return(
         <section>
         <div class="container">
         <div class="split">
-        <div><div></div><div>Ride History</div><div>Support</div><div>About</div></div>
+        <div class="profile">
+        Profile
+        </div>
+        <div class="dropdown"><ul><li>RideHistory</li><li>Support</li><li>About</li></ul></div>
+        <div class="rest">Signup to drive</div>
         </div>
         </div>
         </section>
