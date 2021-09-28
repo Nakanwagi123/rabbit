@@ -4,7 +4,13 @@ import "./navbar.js";
 function Navbar(){
 return(
     <>
-        <div><ul><li>Home</li><li>Programs</li><li>Account</li></ul></div>
+        <section>
+        <div class="container">
+        <div class="split">
+        <div><div></div><div>Ride History</div><div>Support</div><div>About</div></div>
+        </div>
+        </div>
+        </section>
     </>
 )
 }

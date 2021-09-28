@@ -6,6 +6,7 @@ import Navbar from "./pages/topbottombar/navbar";
 function App() {
   return (
     <>
+    <div><p>Wooh</p></div>
       <Router>
         <Navbar/>
       </Router>
