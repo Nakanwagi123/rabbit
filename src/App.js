@@ -4,11 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edit me help!
-        </p>
-      </header>
+      <p>
+      Edit me help!
+      </p>
     </div>
   );
 }
